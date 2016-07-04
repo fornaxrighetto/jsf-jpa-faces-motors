@@ -19,4 +19,5 @@ Em breve estarei subindo a parte de testes para JSF com [JSFUnit](http://www.jbo
 Procurarei linkar os conteúdos desse código com posts no [meu blog](http://gilliard.eti.br), assim além do código vou disponibilizar um conteúdo mais explicativo.
 
 Autor: [Danilo Righetto](https://github.com/righetto93)
+
 Fonte: Casa do Códiigo - Projeto: [faces-motors](https://github.com/gscordeiro/faces-motors)
